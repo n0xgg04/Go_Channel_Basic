@@ -1,0 +1,5 @@
+package mymath
+
+func Mul() {
+
+}

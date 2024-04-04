@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GoORMHelperCache">
+    <option name="schemaMapping">
+      <map>
+        <entry key="APIData">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/main.go" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="scannedPathMapping">
+      <map>
+        <entry key="file://$PROJECT_DIR$/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1712244887783" />
+              <option name="schema">
+                <list>
+                  <option value="APIData" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/mymath/mul.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1712074059297" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/mymath/sum.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1712074092215" />
+            </ScannedPath>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="tableStructMapping">
+      <map>
+        <entry key="api_data" value="APIData" />
+      </map>
+    </option>
+    <option name="lastTimeChecked" value="1712242581588" />
+  </component>
+</project>

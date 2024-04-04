@@ -6,6 +6,7 @@
         <entry key="APIData">
           <value>
             <set>
+              <option value="file://$PROJECT_DIR$/channel/main.go" />
               <option value="file://$PROJECT_DIR$/main.go" />
             </set>
           </value>
@@ -14,6 +15,18 @@
     </option>
     <option name="scannedPathMapping">
       <map>
+        <entry key="file://$PROJECT_DIR$/channel/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1712245066887" />
+              <option name="schema">
+                <list>
+                  <option value="APIData" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
         <entry key="file://$PROJECT_DIR$/main.go">
           <value>
             <ScannedPath>

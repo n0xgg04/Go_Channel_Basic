@@ -1,5 +1,0 @@
-package mymath
-
-func Mul() {
-
-}
